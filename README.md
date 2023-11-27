@@ -14,5 +14,5 @@ Masking - Background Replacement
 Simple img2vid /w Interpolation
 ![svd-simple](https://github.com/purzbeats/purz-comfyui-workflows/assets/97489706/0d4b48e0-b4d6-417a-b79f-b2472a8e939c)
 
-Clip Extension (8x) /w Interpolation
+Clip Extension (8x) /w Interpolation (Set and Get nodes from KJ Nodes)
 ![svd-clip-extension-8x](https://github.com/purzbeats/purz-comfyui-workflows/assets/97489706/0b10aefc-7be2-441c-a9d2-2683c118597a)
