@@ -3,10 +3,10 @@ Purz's ComfyUI Workflows
 
 # AnimateDiff-Evolved Workflows
 
-Masking - Subject Replacement
+Masking - Subject Replacement (Original concept by [toyxyz](https://github.com/toyxyz))
 ![adiff-masking-subject_replacement](https://github.com/purzbeats/purz-comfyui-workflows/assets/97489706/545d2354-5ea7-446d-967d-69e53fc25dcb)
 
-Masking - Background Replacement
+Masking - Background Replacement (Original concept by [toyxyz](https://github.com/toyxyz))
 ![adiff-masking-background_replacement](https://github.com/purzbeats/purz-comfyui-workflows/assets/97489706/32be7a99-761c-4d48-b225-85fdd4221ac9)
 
 # Stable Video Diffusion (SVD) Workflows
