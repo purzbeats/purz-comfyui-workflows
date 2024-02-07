@@ -3,6 +3,13 @@ Purz's ComfyUI Workflows
 
 # AnimateDiff-Evolved Workflows
 
+**2024**
+
+Vid2Vid - Fast AnimateLCM + AnimateDiff v3 Gen2 + IPA + Multi ControlNet + Upscaler - https://www.youtube.com/watch?v=DKfz0skc2oM
+![Vid2Vid-AnimateLCM_AnimateDiff-Gen2-v3_IPA_Multi-ControlNet-Upscaler](https://github.com/purzbeats/purz-comfyui-workflows/assets/97489706/c6f0afea-26cb-4a5e-8c24-8913153922f1)
+
+**2023**
+
 Masking - Subject Replacement (Original concept by [toyxyz](https://github.com/toyxyz))
 ![adiff-masking-subject_replacement](https://github.com/purzbeats/purz-comfyui-workflows/assets/97489706/545d2354-5ea7-446d-967d-69e53fc25dcb)
 
